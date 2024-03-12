@@ -14,7 +14,7 @@
         </h1>
 
         <button class="rounded-md bg-yellow-400 py-2 px-4 font-semibold text-white hover:bg-yellow-500">
-            Order Now
+            Shop Now
         </button>
     </div>
 </body>
